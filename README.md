@@ -9,4 +9,4 @@ I have completed the Data Analysis bootcamp and am presenting some of my project
 
 [Excel Spreadsheet]
 
-Previously to this I successfully completed a AI Bootcamp have working knowledge of AI fundamental such as generative AI, computer vision, natural language processing, which gave me the pipeline of data and how data can be used to train AI models
+Previously to this I successfully completed a AI Bootcamp resulting in me having working knowledge of AI fundamental such as generative AI, computer vision, natural language processing, which gave me the pipeline of data and how data can be used to train AI models
