@@ -10,3 +10,8 @@ Previously to this I successfully completed a AI Bootcamp resulting in me having
 
 # Excel
 [Excel Speadsheet]
+
+# Tableau and Power BI
+# Databases and SQL
+# Cloud Computing and Azure Data Fundamentals
+# Python
