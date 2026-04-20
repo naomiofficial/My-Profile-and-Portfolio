@@ -3,8 +3,10 @@ Data analytics tasks i have completed
 
 # Hi My name is Naomi Fearon
 
-I have Experience managing data, my past work experience includes working in a busy head office of a national builders' merchant as a print admin of 500+ branches, processing orders and costing jobs from the companies in-house printing department
+I have Experience managing data, my past work experience includes working in the busy head office of a 500+ branch national builders' merchant as a print admin, processing orders and costing all jobs from the companies in-house printing department, liasing with the team within design protocol.
 
 I have completed the Data Analysis bootcamp and am presenting some of my projects
 
 [Excel Spreadsheet]
+
+I also have working knowledge of AI fundamental such as generative AI, computer vision, natural language processing,
