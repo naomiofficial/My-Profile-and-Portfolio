@@ -143,7 +143,7 @@ Technology-driven environments
 
 ## 📫 Let’s Connect
 
-LinkedIn: [Add your link]
+LinkedIn: 
 
-Email: [Optional]
+Email: 
 
