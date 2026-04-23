@@ -42,28 +42,6 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ---
 
-## 🛠️ Technical Skills
-
-
-
-Data Analysis: Data cleaning, transformation, and insight generation
-
-Excel: Pivot tables, formulas, data organisation
-
-Tableau: Dashboard creation and data visualisation
-
-Power BI: Data modelling and report building
-
-SQL & Databases: Understanding structured data and querying
-
-Python (Foundations)
-
-Cloud Fundamentals: Azure basics
-
-AI Fundamentals: Machine Learning, NLP, Computer Vision
-
----
-
 ## 📊 Portfolio Projects
 
 🔹 Customer Churn Analysis (Concept Project)
