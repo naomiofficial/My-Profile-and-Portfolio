@@ -34,10 +34,15 @@ Liaised with internal teams to meet deadlines and design requirements
 
 In addition, I have a background in care and therapy, which has strengthened my:
 
+
 Attention to detail
+
 Communication skills
+
 Ability to work under pressure
+
 Real-world problem-solving
+
 
 I also explored entrepreneurship, which helped me develop a more commercial mindset and understand how businesses operate.
 
