@@ -24,19 +24,48 @@ This gave me a strong understanding of how data underpins modern systems, from c
 
 ## 💼 Background & Experience
 
-I'm a Junior Data Analyst / BI Analyst, with a strong interest in customer insights, marketing analytics, digital platforms, and emerging technologies including automation and generative AI, across healthcare, commercial, or digital environments.
+I have experience managing and working with data in fast-paced environments. Previously, I worked in the head office of a national builders’ merchant as a Print Administrator, where I:
 
-I have Experience managing data, my past work experience includes working in the busy head office of a 500+ branch national builders' merchant as a print admin, processing orders and costing all jobs from the companies in-house printing department, liasing with the team within design protocol.
+Processed and costed print jobs across 500+ branches
+Managed operational data and workflows
+Liaised with internal teams to meet deadlines and design requirements
 
-I have completed the Data Analysis bootcamp and am presenting some of my projects
+In addition, I have a background in care and therapy, which has strengthened my:
 
-Previously to this I successfully completed a AI Bootcamp resulting in me having working knowledge of AI fundamental such as generative AI, computer vision, natural language processing and machine learning, which gave me the pipeline of data and how data can be used to train AI models. During Covid i explored entrepreneurship which helped me to develop a more commercial mindset and an understanding of how businesses operate.
+Attention to detail
+Communication skills
+Ability to work under pressure
+Real-world problem-solving
+
+I also explored entrepreneurship, which helped me develop a more commercial mindset and understand how businesses operate.
+
+---
+
+## 🛠️ Technical Skills
+
+---
+
+Data Analysis: Data cleaning, transformation, and insight generation
+
+Excel: Pivot tables, formulas, data organisation
+
+Tableau: Dashboard creation and data visualisation
+
+Power BI: Data modelling and report building
+
+SQL & Databases: Understanding structured data and querying
+
+Python (Foundations)
+
+Cloud Fundamentals: Azure basics
+
+AI Fundamentals: Machine Learning, NLP, Computer Vision
+
+---
 
 
 
 
 
-[# Excel, tableau and Power BI, Databases and SQL, Cloud computing and Azure Data Fundamentals, Python]
-[Excel Speadsheet]
 
 
