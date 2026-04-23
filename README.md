@@ -10,13 +10,7 @@ I recently completed a Data Analysis Bootcamp, where I developed practical skill
 
 Prior to this, I completed an AI Bootcamp, where I gained foundational knowledge in:
 
-Machine Learning
-
-Natural Language Processing (NLP)
-
-Computer Vision
-
-Generative AI
+Machine Learning, Natural Language Processing (NLP), Computer Vision, Generative AI
 
 This gave me a strong understanding of how data underpins modern systems, from chatbots to predictive models, and is what sparked my interest in pursuing a career in data analysis.
 
