@@ -64,6 +64,13 @@ AI Fundamentals: Machine Learning, NLP, Computer Vision
 
 ---
 
+## 📊 Portfolio Projects
+
+🔹 Customer Churn Analysis (Concept Project)
+
+Outlined a structured approach to analysing customer churn, including data preparation, identifying behavioural patterns, and presenting insights to stakeholders
+
+---
 
 
 
