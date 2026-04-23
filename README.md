@@ -1,4 +1,4 @@
-# Hi 👋 My name is Naomi Fearon
+# Hi 👋 My name is Naomi 
 
 I'm a Junior Data Analyst / BI Analyst, with a strong interest in customer insights, marketing analytics, digital platforms, and emerging technologies including automation and generative AI, across healthcare, commercial, or digital environments.
 
