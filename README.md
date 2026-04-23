@@ -27,7 +27,9 @@ This gave me a strong understanding of how data underpins modern systems, from c
 I have experience managing and working with data in fast-paced environments. Previously, I worked in the head office of a national builders’ merchant as a Print Administrator, where I:
 
 Processed and costed print jobs across 500+ branches
+
 Managed operational data and workflows
+
 Liaised with internal teams to meet deadlines and design requirements
 
 In addition, I have a background in care and therapy, which has strengthened my:
