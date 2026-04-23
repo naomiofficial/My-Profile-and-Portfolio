@@ -1,4 +1,26 @@
-# Hi 👋 My name is Naomi 
+# 👋 Hi, I'm Naomi 
+
+I’m a Junior Data Analyst / BI Analyst with a strong interest in customer insights, marketing analytics, and data-driven decision-making across healthcare, commercial, and digital environments.
+
+---
+
+## 🧠 About Me
+
+I recently completed a Data Analysis Bootcamp, where I developed practical skills in analysing data, building dashboards, and communicating insights. I am currently showcasing a selection of my projects that demonstrate my learning and approach to real-world data problems.
+
+Prior to this, I completed an AI Bootcamp, where I gained foundational knowledge in:
+
+Machine Learning
+
+Natural Language Processing (NLP)
+
+Computer Vision
+
+This gave me a strong understanding of how data underpins modern systems, from chatbots to predictive models, and is what sparked my interest in pursuing a career in data analysis.
+
+---
+
+## 💼 Background & Experience
 
 I'm a Junior Data Analyst / BI Analyst, with a strong interest in customer insights, marketing analytics, digital platforms, and emerging technologies including automation and generative AI, across healthcare, commercial, or digital environments.
 
