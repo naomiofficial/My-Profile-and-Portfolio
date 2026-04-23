@@ -43,7 +43,7 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ## 🛠️ Technical Skills
 
----
+
 
 Data Analysis: Data cleaning, transformation, and insight generation
 
