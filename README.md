@@ -44,15 +44,19 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ## 📊 Selected Portfolio Projects
 
-🔹 Customer Churn Analysis (Concept Project)
 
-Outlined a structured approach to analysing customer churn, including data preparation, identifying behavioural patterns, and presenting insights to stakeholders
+🔹 Excel - Sales Data Analysis
 
----
+I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
 
-🔹 Sales Data Analysis (Excel)
+The aim of this project was to understand sales performance and identify patterns across different customer groups and product categories.
 
-Used Excel to analyse sales data using pivot tables, formulas, and categorisation techniques to identify performance trends and insights.
+I started by organising the dataset into a structured table and using filters and sorting to explore the data. I then used formulas such as SUM and AVERAGE to calculate key metrics like total commission and average values.
+I also used pivot tables to summarise the data and compare performance across categories, such as product type and customer demographics.”
+
+
+
+[Used Excel to analyse sales data using pivot tables, formulas, and categorisation techniques to identify performance trends and insights.]
 
 ---
 
