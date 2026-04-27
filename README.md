@@ -84,45 +84,6 @@ Built reports and dashboards using Power BI, including data transformation and v
 
 ---
 
-## 🚀 What I’ve Learned
-
-How to clean and structure data for analysis
-
-How to identify patterns and trends in datasets
-
-How to communicate insights using visualisations
-
-How data supports real-world decision-making
-
-The importance of data quality in analysis and AI systems
-
----
-
-## 🎯 Career Goals
-
-
-I am looking to secure a data analyst role where I can:
-
-Apply my analytical and technical skills
-
-Work on real-world data problems
-
-Contribute to improving processes and decision-making
-
-
-
-I am particularly interested in opportunities within:
-
-Healthcare
-
-Business Intelligence
-
-Marketing & Customer Analytics
-
-Technology-driven environments
-
----
-
 ## 📫 Let’s Connect
 
 LinkedIn: 
