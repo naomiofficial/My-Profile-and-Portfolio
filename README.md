@@ -42,7 +42,7 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ---
 
-## 📊 Portfolio Projects
+## 📊 Selected Portfolio Projects
 
 🔹 Customer Churn Analysis (Concept Project)
 
