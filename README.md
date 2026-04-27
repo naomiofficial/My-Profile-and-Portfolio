@@ -46,6 +46,7 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 
 🔹 Excel - Sales Data Analysis 
+![Sales Analysis](Sales%20Analysis%20png.png)
 
 I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
 
