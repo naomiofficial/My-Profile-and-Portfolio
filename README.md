@@ -45,7 +45,7 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 ## 📊 Selected Portfolio Projects
 
 
-🔹 Excel - Sales Data Analysis
+🔹 Excel - Sales Data Analysis 
 
 I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
 
