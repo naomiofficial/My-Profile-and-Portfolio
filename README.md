@@ -74,6 +74,20 @@ This dashboard provides an overview of Spotify music features, focusing on popul
 ![Dashboard Overview](Shopify_Dashboard%20Overview.png)
 ![Final Dashboard](Shopify_Dashboard_Final.png)
 
+## Interactivity
+
+- Users can click on genres to filter and explore how different categories influence popularity and audio features.
+- The dashboard allows dynamic comparison between artists, song duration, and musical characteristics.
+
+## Key Insights
+
+- Pop, Rap, and Rock are the most popular genres, significantly outperforming others in overall popularity.
+- There is a positive relationship between **danceability and popularity**, suggesting that more danceable tracks tend to achieve higher success.
+- Most songs are clustered between **3–4 minutes**, indicating a standard duration for popular music.
+- A small number of artists dominate the charts, with top performers like Drake achieving significantly higher popularity scores.
+- Audio features such as energy, danceability, and acousticness show variation, but popular tracks tend to cluster around moderate to high energy levels.
+
+
 Pop, Rap, and Rock are the most popular genres, significantly outperforming others in overall popularity.
 There is a positive relationship between danceability and popularity, suggesting more danceable tracks tend to perform better.
 Most songs cluster around 3–4 minutes, indicating a standard duration range for popular tracks.
