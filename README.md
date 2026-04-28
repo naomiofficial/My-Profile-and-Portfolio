@@ -53,9 +53,11 @@ Projects using Excel, SQL, Python, Tableau, Power BI, and Azure to analyse, visu
 
 ### Project 1 – Sales Data Analysis
 
-This project involved analysing a retail sales dataset in Excel to understand sales performance and identify patterns across customer groups and product categories.
+This project involved structuring raw data into a clean table format, creating calculated fields for **Total Sales** and **Commission**, and using Excel functions such as **SUM, AVERAGE, and SUMIFS** to derive meaningful insights. A summary section was created to highlight key metrics and category-level performance.
 
-![Sales Analysis](Sales%20Analysis%20png.png)
+
+![Excel Sales Analysis](Sales_Analysis_png.png)
+
 
 
 #### Dataset Overview
@@ -64,23 +66,24 @@ This project involved analysing a retail sales dataset in Excel to understand sa
 - Product category (Clothing, Electronics, Beauty)
 - Quantity, price per unit, total sales, and commission
 
-#### Analysis Performed
+### Key Features
 
-- Structured the dataset into a table for filtering and sorting
-- Used formulas such as **SUM** and **AVERAGE** to calculate key metrics
-- Created calculated fields such as commission values
-- Explored trends across customer segments using filters
+- Structured dataset using Excel Tables for efficient filtering and analysis  
+- Calculated fields including Total Sales and Commission values  
+- Use of functions such as **SUM, AVERAGE, and SUMIFS** for data analysis  
+- Conditional aggregation to analyse sales by category and customer segments  
+- Summary metrics including total, average, highest, and lowest sales  
+- Clean and organised layout designed to present insights clearly  
 
-#### Outcome
+### Key Insights
+- Sales are relatively evenly distributed across Clothing, Beauty, and Electronics, with Electronics slightly leading overall revenue.
+- A small number of high-value transactions significantly influence total sales.
+- Most transactions fall within lower price ranges, indicating consistent purchasing behaviour.
+- Commission calculations demonstrate how small percentage rates scale across larger datasets.
 
-The analysis identified patterns in sales performance across product categories and customer demographics, supporting data-driven insights.
+---
 
-[I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
-
-The aim of this project was to understand sales performance and identify patterns across different customer groups and product categories.
-
-I started by organising the dataset into a structured table and using filters and sorting to explore the data. I then used formulas such as SUM and AVERAGE to calculate key metrics like total commission and average values.
-I also used pivot tables to summarise the data and compare performance across categories, such as product type and customer demographics.”]
+### Key Features
 
 
 ### Project 2 – Pivot Table Analysis (or whatever your second task is)
