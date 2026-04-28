@@ -65,20 +65,23 @@ I also used pivot tables to summarise the data and compare performance across ca
 
 ## Tableau - Music Trends & Popularity Analysis 
 
-![Dashboard Overview](Shopify_Dashboard%20Overview.png)
-![Final Dashboard](Shopify_Dashboard_Final.png)
-
 Analysed Spotify data to identify trends in genre popularity, song characteristics, and factors influencing track success.
 
 This dashboard provides an overview of Spotify music features, focusing on popularity, genre distribution, and audio characteristics. It highlights relationships between popularity, danceability, and song duration, as well as identifying top-performing artists. Interactive elements allow users to explore how different genres influence overall music trends.
 
-insights
+# insights
+
+![Dashboard Overview](Shopify_Dashboard%20Overview.png)
+![Final Dashboard](Shopify_Dashboard_Final.png)
 
 Pop, Rap, and Rock are the most popular genres, significantly outperforming others in overall popularity.
 There is a positive relationship between danceability and popularity, suggesting more danceable tracks tend to perform better.
 Most songs cluster around 3–4 minutes, indicating a standard duration range for popular tracks.
 Top artists (e.g., Drake) dominate in popularity, showing a concentration of success among a few key performers.
 Audio features (energy, danceability, acousticness) vary widely, but popular tracks tend to cluster around moderate-to-high energy levels.
+
+
+---
 
 
 🔹 Customer Segmentation Analysis (Bike Sales Data)
