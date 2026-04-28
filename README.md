@@ -90,14 +90,6 @@ This dashboard provides an overview of Spotify music features, focusing on popul
 - A small number of artists dominate the charts, with top performers like Drake achieving significantly higher popularity scores.
 - Audio features such as energy, danceability, and acousticness show variation, but popular tracks tend to cluster around moderate to high energy levels.
 
-
-Pop, Rap, and Rock are the most popular genres, significantly outperforming others in overall popularity.
-There is a positive relationship between danceability and popularity, suggesting more danceable tracks tend to perform better.
-Most songs cluster around 3–4 minutes, indicating a standard duration range for popular tracks.
-Top artists (e.g., Drake) dominate in popularity, showing a concentration of success among a few key performers.
-Audio features (energy, danceability, acousticness) vary widely, but popular tracks tend to cluster around moderate-to-high energy levels.
-
-
 ---
 
 
