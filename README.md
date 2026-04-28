@@ -48,15 +48,40 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ## Excel - Data Analysis 
 
+
+### Project 1 – Sales Data Analysis
+
+This project involved analysing a retail sales dataset in Excel to understand sales performance and identify patterns across customer groups and product categories.
+
 ![Sales Analysis](Sales%20Analysis%20png.png)
 
-I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
+
+#### Dataset Overview
+
+- Customer ID, age, and gender
+- Product category (Clothing, Electronics, Beauty)
+- Quantity, price per unit, total sales, and commission
+
+#### Analysis Performed
+
+- Structured the dataset into a table for filtering and sorting
+- Used formulas such as **SUM** and **AVERAGE** to calculate key metrics
+- Created calculated fields such as commission values
+- Explored trends across customer segments using filters
+
+#### Outcome
+
+The analysis identified patterns in sales performance across product categories and customer demographics, supporting data-driven insights.
+
+[I worked on a sales data analysis project using a retail sales dataset in Excel, which included transactional data, such as customer ID, age, gender, product category, quantity, price per unit, total sales, and commission.
 
 The aim of this project was to understand sales performance and identify patterns across different customer groups and product categories.
 
 I started by organising the dataset into a structured table and using filters and sorting to explore the data. I then used formulas such as SUM and AVERAGE to calculate key metrics like total commission and average values.
-I also used pivot tables to summarise the data and compare performance across categories, such as product type and customer demographics.”
+I also used pivot tables to summarise the data and compare performance across categories, such as product type and customer demographics.”]
 
+
+### Project 2 – Pivot Table Analysis (or whatever your second task is)
 
 
 [Used Excel to analyse sales data using pivot tables, formulas, and categorisation techniques to identify performance trends and insights.]
