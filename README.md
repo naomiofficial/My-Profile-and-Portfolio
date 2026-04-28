@@ -69,7 +69,7 @@ Analysed Spotify data to identify trends in genre popularity, song characteristi
 
 This dashboard provides an overview of Spotify music features, focusing on popularity, genre distribution, and audio characteristics. It highlights relationships between popularity, danceability, and song duration, as well as identifying top-performing artists. Interactive elements allow users to explore how different genres influence overall music trends.
 
-# Visualisations
+## Dashboard Preview - Visualisations
 
 ![Dashboard Overview](Shopify_Dashboard%20Overview.png)
 ![Final Dashboard](Shopify_Dashboard_Final.png)
