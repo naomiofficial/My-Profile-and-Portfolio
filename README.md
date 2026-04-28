@@ -78,14 +78,20 @@ A summary section was created to highlight key metrics and category-level perfor
 - Clean and organised layout designed to present insights clearly  
 
 ### Key Insights
-- Sales are relatively evenly distributed across Clothing, Beauty, and Electronics, with Electronics slightly leading overall revenue.
-- A small number of high-value transactions significantly influence total sales.
-- Most transactions fall within lower price ranges, indicating consistent purchasing behaviour.
-- Commission calculations demonstrate how small percentage rates scale across larger datasets.
+
+- I observed that total sales varied greatly depending on product category and price per unit.
+- The higher-priced items like electronics contributed more to total sales in fewer transactions.
+- I also noticed differences in purchasing behaviour across age groups and genders. 
+- Also, commission values varied, which highlighted how different transactions contributed differently to the business performance.
+
+
+### Conclusion:
+
+This demonstrated how data can support business decisions, such as focusing on high performing products or improving underperforming areas.
+
 
 ---
 
-### Key Features
 
 
 ### Project 2 – Pivot Table Analysis
