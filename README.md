@@ -128,6 +128,11 @@ This dashboard provides an overview of Spotify music features, focusing on popul
 - A small number of artists dominate the charts, with top performers like Drake achieving significantly higher popularity scores.
 - Audio features such as energy, danceability, and acousticness show variation, but popular tracks tend to cluster around moderate to high energy levels.
 
+
+## conclusion
+
+These insights could be useful for artists or producers, in the music industry when making decisions about song production.
+
 ---
 
 
