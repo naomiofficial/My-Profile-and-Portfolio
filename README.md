@@ -65,6 +65,9 @@ I also used pivot tables to summarise the data and compare performance across ca
 
 ## Tableau - Music Trends & Popularity Analysis 
 
+![Dashboard Overview](Shopify_Dashboard%20Overview.png)
+![Final Dashboard](Shopify_Dashboard_Final.png)
+
 Analysed Spotify data to identify trends in genre popularity, song characteristics, and factors influencing track success.
 
 This dashboard provides an overview of Spotify music features, focusing on popularity, genre distribution, and audio characteristics. It highlights relationships between popularity, danceability, and song duration, as well as identifying top-performing artists. Interactive elements allow users to explore how different genres influence overall music trends.
