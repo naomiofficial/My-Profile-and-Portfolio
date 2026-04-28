@@ -42,7 +42,9 @@ I also explored entrepreneurship, which helped me develop a more commercial mind
 
 ---
 
-## 📊 Selected Portfolio Projects
+## 📊 Data Analytics Portfolio 
+
+Projects using Excel, SQL, Python, Tableau, Power BI, and Azure to analyse, visualise, and interpret data.
 
 
 
