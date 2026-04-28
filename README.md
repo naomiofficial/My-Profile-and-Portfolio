@@ -86,7 +86,7 @@ This project involved structuring raw data into a clean table format, creating c
 ### Key Features
 
 
-### Project 2 – Pivot Table Analysis (or whatever your second task is)
+### Project 2 – Pivot Table Analysis
 
 
 [Used Excel to analyse sales data using pivot tables, formulas, and categorisation techniques to identify performance trends and insights.]
