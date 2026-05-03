@@ -51,7 +51,7 @@ Projects using Excel, SQL, Python, Tableau, Power BI, and Azure to analyse, visu
 ## Excel - Data Analysis 
 
 
-### Project 1 – Sales Data Analysis
+### Sales Data Analysis
 
 This project involved structuring raw data into a clean table format, creating calculated fields for **Total Sales** and **Commission**, and using Excel functions such as **SUM, AVERAGE, and SUMIFS** to derive meaningful insights. 
 
